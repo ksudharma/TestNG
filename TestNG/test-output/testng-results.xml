@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="3" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="61" started-at="2019-08-11T18:38:33Z" finished-at="2019-08-11T18:38:33Z">
+    <groups>
+      <group name="smoke">
+        <method signature="Demo9.testcase1()[pri:0, instance:DemoTestNg.Demo9@643b1d11]" name="testcase1" class="DemoTestNg.Demo9"/>
+        <method signature="Demo9.testcase2()[pri:0, instance:DemoTestNg.Demo9@643b1d11]" name="testcase2" class="DemoTestNg.Demo9"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test name="Demo9SmokeTest" duration-ms="61" started-at="2019-08-11T18:38:33Z" finished-at="2019-08-11T18:38:33Z">
+      <class name="DemoTestNg.Demo9">
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:DemoTestNg.Demo9@643b1d11]" name="testcase1" duration-ms="23" started-at="2019-08-12T00:08:33Z" finished-at="2019-08-12T00:08:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method status="PASS" signature="testcase2()[pri:0, instance:DemoTestNg.Demo9@643b1d11]" name="testcase2" duration-ms="4" started-at="2019-08-12T00:08:33Z" finished-at="2019-08-12T00:08:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+      </class> <!-- DemoTestNg.Demo9 -->
+    </test> <!-- Demo9SmokeTest -->
+  </suite> <!-- Suite -->
+</testng-results>
